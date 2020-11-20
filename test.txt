@@ -1,1 +1,2 @@
 "say something"
+and close it
